@@ -20,7 +20,7 @@ Welcome to <b>CodeNow</b>, a site that empowers you to code directly in your web
 
 ## Getting Started 🚀
 
-1. **Access the Website**: Visit [code.arkb.me](https://code.arkb.me) to access the editor.
+1. **Access the Website**: Visit [dev.arkb.me](https://dev.arkb.me) to access the editor.
 
 2. **Start Coding**: Start writing your code.
 
